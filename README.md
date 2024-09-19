@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&weight=600&size=25&pause=1000&color=2279F7&background=6E181800&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Welcome+to+Giyun's+github!" alt="Typing SVG" /></a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gi-yun)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -82,7 +82,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
 
-[![gi-yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gi-yun&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/gi-yun/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gi-yun)](https://github.com/anuraghazra/github-readme-stats)
  
 <br>
 
