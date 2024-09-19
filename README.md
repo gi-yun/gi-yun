@@ -10,7 +10,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gi-yun&layout=compact)
 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
