@@ -1,7 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2279F7&background=FFBD7F00&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Welcome+to+Giyun's+github!" alt="Typing SVG" /></a>
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 </div>
 
 <!--내용 부분-->
