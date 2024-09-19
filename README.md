@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WelcometoGiyun'sgithub%20render&fontSize=90" />
+https://readme-typing-svg.demolab.com/demo/?weight=600&size=25&color=2279F7&background=FFBD7F00&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&lines=Welcome+to+Giyun's+github!
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
