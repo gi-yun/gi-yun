@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-<div align="center" >
+<div >
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
