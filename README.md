@@ -49,7 +49,7 @@
       <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github">
     </a>
     <br>
-    A brief description of what this project is about or its main features.
+   프로젝트 팝콘 리액트 이 프로젝트가 무엇인지 또는 주요 기능에 대한 간략한 설명입니다.
   </p>
   <p>
     <strong>Project Popcon</strong><br>
@@ -57,7 +57,7 @@
       <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github">
     </a>
     <br>
-    A brief description of what this project is about or its main features.
+  프로젝트 팝콘 이 프로젝트가 무엇인지 또는 주요 기능에 대한 간략한 설명입니다.
   </p>
 </div>
 
