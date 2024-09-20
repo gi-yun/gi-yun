@@ -77,4 +77,5 @@
 
 <!-- Stats 및 주요 언어 -->
 [![gi-yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gi-yun)](https://github.com/anuraghazra/github-readme-stats)&nbsp
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gi-yun&layout=compact)
