@@ -6,7 +6,7 @@
 안녕하세요! 저는 프런트엔드와 백엔드 기술 모두에 경험이 있는 열정적인 개발자 gi-yun입니다. 저는 항상 새로운 기술을 배우려고 노력합니다. 저의 주요 기술에는 React, Java, Spring Boot가 있습니다. 저는 또한 저는 대화형 웹 애플리케이션 프로젝트에 참여해보았고 다른 개발자와 협력하여 놀라운 것을 만드는 데 관심이 있습니다!
 
 
-<summary>⚡ <b>GitHub Stats</b></summary>
+
 <!-- 내용 부분 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
