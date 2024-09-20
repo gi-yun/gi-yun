@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+gi-yun's+GitHub!👋)](https://git.io/typing-svg)
 
 ### About Me
-Hello! I'm gi-yun, a passionate developer with experience in both front-end and back-end technologies. I enjoy building interactive web applications and always strive to learn new technologies. My key skills include React, Java, and Spring Boot. I'm also interested in contributing to open source projects and collaborating with other developers to create something amazing!
+안녕하세요! 저는 프런트엔드와 백엔드 기술 모두에 경험이 있는 열정적인 개발자 gi-yun입니다. 저는 항상 새로운 기술을 배우려고 노력합니다. 저의 주요 기술에는 React, Java, Spring Boot가 있습니다. 저는 또한 저는 대화형 웹 애플리케이션 프로젝트에 참여해보았고 다른 개발자와 협력하여 놀라운 것을 만드는 데 관심이 있습니다!
 
 
 <summary>⚡ <b>GitHub Stats</b></summary>
