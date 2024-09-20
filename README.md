@@ -5,6 +5,8 @@
 ### About Me
 Hello! I'm gi-yun, a passionate developer with experience in both front-end and back-end technologies. I enjoy building interactive web applications and always strive to learn new technologies. My key skills include React, Java, and Spring Boot. I'm also interested in contributing to open source projects and collaborating with other developers to create something amazing!
 
+
+<summary>⚡ <b>GitHub Stats</b></summary>
 <!-- 내용 부분 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
