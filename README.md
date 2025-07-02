@@ -41,7 +41,6 @@
 **IDE & Tools**
 
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
@@ -69,16 +68,6 @@
 
 <p align="center">
  
-</p>
 
----
-
-## 🐍 GitHub Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gi-yun/gi-yun/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 > 🙌 지속적인 성장과 협업을 통해 더 나은 서비스를 만들어가는 개발자가 되겠습니다.
