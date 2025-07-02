@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Gi-Yun's%20GitHub&fontSize=60&fontAlignY=40&desc=Welcome%20to%20my%20Dev%20Space!&descAlignY=60&animation=twinkling" />
-</p>
-
----
-
-## 🐮 GitAnimals
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gi-yun&utm_content=farm">
   <img
     src="https://render.gitanimals.org/farms/gi-yun"
@@ -14,10 +6,6 @@
     alt="GitAnimals Farm"
   />
 </a>
-
-> 매일 커밋해서 나만의 Git 동물농장을 키워보세요!
-
----
 
 ## 👤 About Me
 
