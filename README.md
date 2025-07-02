@@ -62,14 +62,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gi-yun&theme=tokyonight&show_icons=true&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gi-yun&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-## 🍖 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gi-yun&layout=compact&theme=tokyonight&hide_border=true" />
+ 
 </p>
 
 ---
