@@ -1,72 +1,97 @@
-<!-- 타이틀 부분 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+gi-yun's+GitHub!👋)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Gi-Yun's%20GitHub&fontSize=60&fontAlignY=40&desc=Welcome%20to%20my%20Dev%20Space!&descAlignY=60&animation=twinkling" />
+</p>
 
-### About Me
-안녕하세요! 저는 프런트엔드와 백엔드 기술 모두에 경험이 있는 열정적인 개발자 gi-yun입니다. 저는 항상 새로운 기술을 배우려고 노력합니다. 저의 주요 기술에는 React, Java, Spring Boot가 있습니다. 저는 또한 저는 대화형 웹 애플리케이션 프로젝트에 참여해보았고 다른 개발자와 협력하여 놀라운 것을 만드는 데 관심이 있습니다!
+---
 
+## 🐮 GitAnimals
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gi-yun&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/gi-yun"
+    width="600"
+    height="300"
+    alt="GitAnimals Farm"
+  />
+</a>
 
-<!-- 내용 부분 -->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
+> 매일 커밋해서 나만의 Git 동물농장을 키워보세요!
 
-<br>
+---
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-</div>
+## 👤 About Me
 
-<br>
+- 💻 **이름**: 김기윤 (Gi-Yun)
+- 📍 **위치**: 부산광역시 동래구
+- 📧 **이메일**: kbb9554@gmail.com
+- 🎯 **목표**: 풀스택 개발자로 성장하며, 유저 중심의 서비스를 만드는 것
+- 🧩 **관심 기술**: Spring Boot, React, JWT, DB 설계, 보안
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/Spring_Tools-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
+---
 
-<br>
+## 🛠️ Tech Stack
 
-<h3 align="center">💼 Projects 💼</h3>
-<div align="center">
-  <p>
-    <strong>Project Popcon React</strong><br>
-    <a href="https://github.com/kdt-codearchitect/project_popcon_react">
-      <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github">
-    </a>
-    <br>
-   프로젝트 팝콘 리액트 이 프로젝트가 무엇인지 또는 주요 기능에 대한 간략한 설명입니다.
-  </p>
-  <p>
-    <strong>Project Popcon</strong><br>
-    <a href="https://github.com/kdt-codearchitect/project_popcon">
-      <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github">
-    </a>
-    <br>
-  프로젝트 팝콘 이 프로젝트가 무엇인지 또는 주요 기능에 대한 간략한 설명입니다.
-  </p>
-</div>
+**Language & Framework**
 
-<br>
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot)
 
+**DB & DevOps**
 
-<br>
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 
-<!-- Stats 및 주요 언어 -->
-[![gi-yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gi-yun)](https://github.com/anuraghazra/github-readme-stats)&nbsp
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gi-yun&layout=compact)
+**Security & Auth**
+
+![Spring Security](https://img.shields.io/badge/Security-6DB33F?style=flat&logo=springsecurity)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens)
+
+**IDE & Tools**
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+
+---
+
+## 📂 Projects
+
+| 프로젝트 | 설명 |
+|----------|------|
+| 🔍 [여행 추천 웹사이트](https://github.com/gi-yun/tour_project) | 지역별 여행지, 맛집, 숙소를 추천하는 서비스 (React + Spring Boot + JWT) |
+| 🎬 [영화 예매 키오스크](https://github.com/gi-yun/movie_ticket_kiosk) | 좌석 예매, 결제, 관리자 기능 포함 (Python + Oracle + Qt) |
+| 🛒 [쇼핑몰 사이트](https://github.com/gi-yun/convenience_mall) | 카테고리, 장바구니, 결제 연동 쇼핑몰 (Spring Boot + MySQL) |
+| 🪑 [가구 구매 사이트](https://github.com/gi-yun/furniture_store) | 사용자 관리 + 상품 정보 등록 (JSP + Oracle) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gi-yun&theme=tokyonight&show_icons=true&hide_border=true" />
+</p>
+
+---
+
+## 🍖 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gi-yun&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gi-yun/gi-yun/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+> 🙌 지속적인 성장과 협업을 통해 더 나은 서비스를 만들어가는 개발자가 되겠습니다.
