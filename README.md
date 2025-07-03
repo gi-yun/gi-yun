@@ -17,43 +17,58 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-**Language & Framework**
+### 🔤 Language
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python" />
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" width="60" title="JavaScript" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="60" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" title="Java" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot)
+### 🎨 Frontend
+<p>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" width="60" title="HTML5" />
+  <img src="https://img.icons8.com/color/48/css3.png" width="60" title="CSS3" />
+  <img src="https://img.icons8.com/color/48/bootstrap.png" width="60" title="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/react-native.png" width="60" title="React" />
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" width="60" title="DOM" />
+</p>
 
-**DB & DevOps**
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+### 🛠 Backend
+<p>
+  <img src="https://img.icons8.com/color/48/oracle-logo.png" width="60" title="Oracle" />
+  <!-- Spring Boot은 Etc로 이동 -->
+</p>
 
-**Security & Auth**
+### 🧩 Etc
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" title="Spring Boot" />
+  <img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="60" title="Spring Security" />
+  <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="60" title="JWT" />
+</p>
 
-![Spring Security](https://img.shields.io/badge/Security-6DB33F?style=flat&logo=springsecurity)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens)
+### 🧪 DevOps / Tools
+<p>
+  <img src="https://img.icons8.com/fluency/48/docker.png" width="60" title="Docker" />
+  <img src="https://img.icons8.com/color/48/git.png" width="60" title="Git" />
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="60" title="VS Code" />
+</p>
 
-**IDE & Tools**
 
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
----
+
 
 ## 📂 Projects
 
 | 프로젝트 | 설명 |
 |----------|------|
-| 🔍 [여행 추천 웹사이트](https://github.com/gi-yun/tour_project) | 지역별 여행지, 맛집, 숙소를 추천하는 서비스 (React + Spring Boot + JWT) |
-| 🎬 [영화 예매 키오스크](https://github.com/gi-yun/movie_ticket_kiosk) | 좌석 예매, 결제, 관리자 기능 포함 (Python + Oracle + Qt) |
-| 🛒 [쇼핑몰 사이트](https://github.com/gi-yun/convenience_mall) | 카테고리, 장바구니, 결제 연동 쇼핑몰 (Spring Boot + MySQL) |
-| 🪑 [가구 구매 사이트](https://github.com/gi-yun/furniture_store) | 사용자 관리 + 상품 정보 등록 (JSP + Oracle) |
+| 🔍 [여행 추천 웹사이트](https://github.com/tour-site) | 지역별 여행지, 맛집, 숙소를 추천하는 서비스 (React + Spring Boot + JWT) |
+| 🎬 [영화 예매 키오스크](https://github.com/gi-yun/mini_project_2025-03) | 좌석 예매, 결제, 관리자 기능 포함 (Python + Oracle + Qt) |
+| 🛒 [쇼핑몰 사이트](https://github.com/kdt-codearchitect) | 카테고리, 장바구니, 결제 연동 쇼핑몰 (Spring Boot + MySQL) |
+| 🪑 [가구 구매 사이트](https://github.com/gi-yun/furnitureshop) | 사용자 관리 + 상품 정보 등록 (JSP + Oracle) |
 
 ---
 
