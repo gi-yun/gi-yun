@@ -23,7 +23,6 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python" />
   <img src="https://img.icons8.com/color/48/javascript--v1.png" width="60" title="JavaScript" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="60" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" title="Java" />
 </p>
 
@@ -37,18 +36,14 @@
 </p>
 
 
-### 🛠 Backend
+### 🛠 Backend / DB
 <p>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" title="Spring Boot" />
   <img src="https://img.icons8.com/color/48/oracle-logo.png" width="60" title="Oracle" />
-  <!-- Spring Boot은 Etc로 이동 -->
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="60" title="MySQL" />
 </p>
 
-### 🧩 Etc
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" title="Spring Boot" />
-  <img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="60" title="Spring Security" />
-  <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="60" title="JWT" />
-</p>
+
 
 ### 🧪 DevOps / Tools
 <p>
@@ -56,6 +51,16 @@
   <img src="https://img.icons8.com/color/48/git.png" width="60" title="Git" />
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="60" title="VS Code" />
 </p>
+
+### 🧩 Etc
+<p>
+ 
+  <img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="60" title="Spring Security" />
+  <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="60" title="JWT" />
+</p>
+
+
+
 
 
 
