@@ -74,7 +74,7 @@
 | 🎬 [영화 예매 키오스크](https://github.com/gi-yun/mini_project_2025-03) | 좌석 예매, 결제, 관리자 기능 포함 (Python + Oracle + Qt) |
 | 🛒 [쇼핑몰 사이트](https://github.com/kdt-codearchitect) | 카테고리, 장바구니, 결제 연동 쇼핑몰 (React+Spring Boot + MySQL) |
 | 🪑 [가구 구매 사이트](https://github.com/gi-yun/furnitureshop) | 사용자 관리 + 상품 정보 등록 (JSP + MYSQL) |
-| 🤖 [텔레그램봇](https://github.com/gi-yun/Telegram_chatbot) |  챗봇 명령어나 키워드 입력을 통해 다양한 정보를 쉽게 받아볼 수 있는 텔레그램 챗봇 (python) |
+| 🤖 [텔레그램 챗봇](https://github.com/gi-yun/Telegram_chatbot) |  챗봇 명령어나 키워드 입력을 통해 다양한 정보를 쉽게 받아볼 수 있는 텔레그램 챗봇 (python) |
 
 ---
 
