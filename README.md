@@ -14,8 +14,9 @@
 - 📧 **이메일**: kbb9554@gmail.com
 - 🎯 **목표**: 풀스택 개발자로 성장하며, 유저 중심의 서비스를 만드는 것
 - 🧩 **관심 기술**: Spring Boot, React, JWT, DB 설계, 보안
-
+- 🖼️ **portfolio** : https://gi-yun.github.io/portfolio
 ---
+## 
 
 ## 🧰 Tech Stack
 
